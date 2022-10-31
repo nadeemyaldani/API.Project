@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "MVC.Project": {
+    "API.Project": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
